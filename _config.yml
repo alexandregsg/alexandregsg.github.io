@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Alexandre Gonçalves # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: My data science blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://alexandregsg.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: alexandregsg # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -90,13 +90,13 @@ theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
-# will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
+# will be added to all media resources (site b, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "https://media.licdn.com/dms/image/v2/D4D03AQHd0GdDQUnMzA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707782313598?e=1728518400&v=beta&t=CUAUTP8CBH79rm6ZwIUox5whTCiYrPWcQu3p23mVjo4"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
