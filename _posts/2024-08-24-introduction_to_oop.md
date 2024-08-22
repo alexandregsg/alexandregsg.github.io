@@ -31,17 +31,8 @@ Say we had an application for our company and wewanted to represent our employee
 
 A class can solve this problem, by serving as a blueprint to create each employee so that we didn't have to manually do it each time from scratch.
 
-### Difference between a Class and an instance of a Class
+### Classes and Instances (Video 1)
 
-A class is basically a blueprint for creating instances , in our example , each unique employee will be an instance of our class.
+A class is basically a blueprint for creating instances , in our example , each unique employee will be an instance of our class , thereby each object will have an unique storage location in memory.
 
-class Employee:
-    pass
-
-emp_1 = Employee()
-emp_2 = Employee()
-
-If we print(emp_1) we get:
-
-<__main__.Employee object at 0x101377>
-
+<script src="https://gist.github.com/alexandregsg/10cf0bf4cba77917d6a7cd4f4acd8e88.js"></script>
