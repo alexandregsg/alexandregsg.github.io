@@ -36,3 +36,10 @@ A class can solve this problem, by serving as a blueprint to create each employe
 A class is basically a blueprint for creating instances , in our example , each unique employee will be an instance of our class , thereby each object will have an unique storage location in memory.
 
 <script src="https://gist.github.com/alexandregsg/10cf0bf4cba77917d6a7cd4f4acd8e88.js"></script>
+
+#### Methods within a class
+
+If we want to perform some kind of action in our class, we can add some so called methods.
+
+<script src="https://gist.github.com/alexandregsg/1600c4dd348c3f16558c16de374458b0.js"></script>
+
